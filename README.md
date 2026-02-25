@@ -1,6 +1,6 @@
 <div align="center">
 
-  # Olá! Eu sou o Luckasdz7 👨‍💻
+  # Olá! Eu sou o Luckasdz7 
 
   ### Estudante de ADS | Entusiasta de Back-end & Web
   
