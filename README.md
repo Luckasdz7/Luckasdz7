@@ -40,6 +40,7 @@
 
   ![Luckasdz7's Stats](https://github-readme-stats.vercel.app/api?username=Luckasdz7&theme=onedark&show_icons=true&hide_border=false&count_private=false)
   ![Luckasdz7's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Luckasdz7&theme=onedark&hide_border=false)
+  
   ![Luckasdz7's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Luckasdz7&theme=onedark&show_icons=true&hide_border=false&layout=compact)
 
 
